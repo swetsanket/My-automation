@@ -1,0 +1,31 @@
+
+# Core dependencies
+python-dotenv==1.0.0
+requests==2.31.0
+apscheduler==3.10.1
+
+# Content discovery
+google-api-python-client==2.108.0
+google-auth==2.23.3
+google-auth-oauthlib==1.1.0
+feedparser==6.0.10
+pytube==15.0.0
+youtube-dl==2021.12.17
+
+# Video editing
+moviepy==1.0.3
+Pillow==10.0.1
+numpy==1.24.3
+
+# Avatar generation
+torch==2.0.1
+torchvision==0.15.2
+SadTalker==0.0.1
+
+# Storage
+google-auth==2.23.3
+google-cloud-storage==2.10.0
+
+# Social media posting
+facebook-sdk==3.1.0
+python-linkedin==4.1
